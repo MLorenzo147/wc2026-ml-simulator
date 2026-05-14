@@ -20,7 +20,11 @@ def simulate_tournament(
     feature_columns: list[str],
     label_classes: list[str],
     build_features_fn,
+<<<<<<< HEAD
     n_simulations: int = 10,
+=======
+    n_simulations: int = 100_000,
+>>>>>>> 47be714bea7090c2a62dcd5043b48d971444c88d
     random_state: int = 42,
 ) -> pd.DataFrame:
     rng = np.random.default_rng(random_state)
