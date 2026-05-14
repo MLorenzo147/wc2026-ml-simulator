@@ -1,0 +1,73 @@
+group,date,home_team,away_team,venue,city,stage
+A,2026-06-11,Mexico,South Africa,Estadio Azteca,Mexico City,group
+A,2026-06-11,South Korea,Czech Republic,Guadalajara Stadium,Guadalajara,group
+B,2026-06-12,Canada,Bosnia and Herzegovina,Toronto Stadium,Toronto,group
+D,2026-06-12,United States,Paraguay,Los Angeles Stadium,Los Angeles,group
+B,2026-06-13,Qatar,Switzerland,San Francisco Bay Stadium,San Francisco,group
+C,2026-06-13,Brazil,Morocco,New York New Jersey Stadium,New York,group
+C,2026-06-13,Haiti,Scotland,Boston Stadium,Boston,group
+D,2026-06-13,Australia,Turkey,BC Place,Vancouver,group
+E,2026-06-14,Germany,Curacao,Houston Stadium,Houston,group
+F,2026-06-14,Netherlands,Japan,Dallas Stadium,Dallas,group
+E,2026-06-14,Ivory Coast,Ecuador,Philadelphia Stadium,Philadelphia,group
+F,2026-06-14,Sweden,Tunisia,Monterrey Stadium,Monterrey,group
+H,2026-06-15,Spain,Cape Verde,Atlanta Stadium,Atlanta,group
+G,2026-06-15,Belgium,Egypt,Seattle Stadium,Seattle,group
+H,2026-06-15,Saudi Arabia,Uruguay,Miami Stadium,Miami,group
+G,2026-06-15,Iran,New Zealand,Los Angeles Stadium,Los Angeles,group
+I,2026-06-16,France,Senegal,New York New Jersey Stadium,New York,group
+I,2026-06-16,Iraq,Norway,Boston Stadium,Boston,group
+J,2026-06-16,Argentina,Algeria,Kansas City Stadium,Kansas City,group
+J,2026-06-16,Austria,Jordan,San Francisco Bay Stadium,San Francisco,group
+K,2026-06-17,Portugal,DR Congo,Houston Stadium,Houston,group
+L,2026-06-17,England,Croatia,Dallas Stadium,Dallas,group
+L,2026-06-17,Ghana,Panama,Toronto Stadium,Toronto,group
+K,2026-06-17,Uzbekistan,Colombia,Estadio Azteca,Mexico City,group
+A,2026-06-18,Czech Republic,South Africa,Atlanta Stadium,Atlanta,group
+B,2026-06-18,Switzerland,Bosnia and Herzegovina,Los Angeles Stadium,Los Angeles,group
+B,2026-06-18,Canada,Qatar,BC Place,Vancouver,group
+A,2026-06-18,Mexico,South Korea,Guadalajara Stadium,Guadalajara,group
+D,2026-06-19,United States,Australia,Seattle Stadium,Seattle,group
+C,2026-06-19,Scotland,Morocco,Boston Stadium,Boston,group
+C,2026-06-19,Brazil,Haiti,Philadelphia Stadium,Philadelphia,group
+D,2026-06-19,Turkey,Paraguay,San Francisco Bay Stadium,San Francisco,group
+F,2026-06-20,Netherlands,Sweden,Houston Stadium,Houston,group
+E,2026-06-20,Germany,Ivory Coast,Toronto Stadium,Toronto,group
+E,2026-06-20,Ecuador,Curacao,Kansas City Stadium,Kansas City,group
+F,2026-06-20,Tunisia,Japan,Monterrey Stadium,Monterrey,group
+H,2026-06-21,Spain,Saudi Arabia,Atlanta Stadium,Atlanta,group
+G,2026-06-21,Belgium,Iran,Los Angeles Stadium,Los Angeles,group
+H,2026-06-21,Uruguay,Cape Verde,Miami Stadium,Miami,group
+G,2026-06-21,New Zealand,Egypt,BC Place,Vancouver,group
+J,2026-06-22,Argentina,Austria,Dallas Stadium,Dallas,group
+I,2026-06-22,France,Iraq,Philadelphia Stadium,Philadelphia,group
+I,2026-06-22,Norway,Senegal,New York New Jersey Stadium,New York,group
+J,2026-06-22,Jordan,Algeria,San Francisco Bay Stadium,San Francisco,group
+K,2026-06-23,Portugal,Uzbekistan,Houston Stadium,Houston,group
+L,2026-06-23,England,Ghana,Boston Stadium,Boston,group
+L,2026-06-23,Panama,Croatia,Toronto Stadium,Toronto,group
+K,2026-06-23,Colombia,DR Congo,Guadalajara Stadium,Guadalajara,group
+B,2026-06-24,Switzerland,Canada,BC Place,Vancouver,group
+B,2026-06-24,Bosnia and Herzegovina,Qatar,Seattle Stadium,Seattle,group
+C,2026-06-24,Scotland,Brazil,Miami Stadium,Miami,group
+C,2026-06-24,Morocco,Haiti,Atlanta Stadium,Atlanta,group
+A,2026-06-24,Czech Republic,Mexico,Estadio Azteca,Mexico City,group
+A,2026-06-24,South Africa,South Korea,Monterrey Stadium,Monterrey,group
+E,2026-06-25,Ecuador,Germany,New York New Jersey Stadium,New York,group
+E,2026-06-25,Curacao,Ivory Coast,Philadelphia Stadium,Philadelphia,group
+F,2026-06-25,Tunisia,Netherlands,Kansas City Stadium,Kansas City,group
+F,2026-06-25,Japan,Sweden,Dallas Stadium,Dallas,group
+D,2026-06-25,Turkey,United States,Los Angeles Stadium,Los Angeles,group
+D,2026-06-25,Paraguay,Australia,San Francisco Bay Stadium,San Francisco,group
+I,2026-06-26,Norway,France,Boston Stadium,Boston,group
+I,2026-06-26,Senegal,Iraq,Toronto Stadium,Toronto,group
+H,2026-06-26,Uruguay,Spain,Guadalajara Stadium,Guadalajara,group
+H,2026-06-26,Cape Verde,Saudi Arabia,Houston Stadium,Houston,group
+G,2026-06-26,New Zealand,Belgium,BC Place,Vancouver,group
+G,2026-06-26,Egypt,Iran,Seattle Stadium,Seattle,group
+L,2026-06-27,Panama,England,New York New Jersey Stadium,New York,group
+L,2026-06-27,Croatia,Ghana,Philadelphia Stadium,Philadelphia,group
+K,2026-06-27,Colombia,Portugal,Miami Stadium,Miami,group
+K,2026-06-27,DR Congo,Uzbekistan,Atlanta Stadium,Atlanta,group
+J,2026-06-27,Jordan,Argentina,Dallas Stadium,Dallas,group
+J,2026-06-27,Algeria,Austria,Kansas City Stadium,Kansas City,group

@@ -1,0 +1,967 @@
+team,player,club,position,minutes,caps,goals
+Portugal,Cristiano Ronaldo,Al Nassr,Attaquant,19350,215,135
+Argentina,Lionel Messi,Inter Miami,Attaquant,16830,187,109
+Belgium,Romelu Lukaku,Napoli,Attaquant,10350,115,85
+England,Harry Kane,Bayern Munich,Attaquant,10080,112,78
+Egypt,Mohamed Salah,Liverpool,Attaquant,9900,110,64
+France,Kylian Mbappé,Real Madrid,Attaquant,8460,94,55
+Norway,Erling Haaland,Manchester City,Attaquant,4320,48,55
+IR Iran,Mehdi Taremi,Inter Milan,Attaquant,7650,85,50
+Korea Republic,Son Heung-min,Tottenham,Attaquant,11250,125,48
+France,Antoine Griezmann,Atletico Madrid,Attaquant,12330,137,46
+Netherlands,Memphis Depay,Corinthians,Attaquant,8550,95,46
+IR Iran,Sardar Azmoun,Roma,Attaquant,6750,75,45
+Ecuador,Enner Valencia,Internacional,Attaquant,9450,105,42
+Qatar,Almoez Ali,Al Duhail,Attaquant,9000,100,42
+Algeria,Islam Slimani,CR Belouizdad,Attaquant,9000,100,42
+Austria,Marko Arnautović,Inter Milan,Attaquant,10350,115,40
+Senegal,Sadio Mané,Al Nassr,Attaquant,9000,100,40
+Spain,Álvaro Morata,AC Milan,Attaquant,7650,85,40
+Croatia,Ivan Perišić,Hajduk Split,Attaquant,11250,125,35
+Mexico,Raúl Jiménez,Fulham,Attaquant,9000,100,35
+New Zealand,Chris Wood,Nottingham Forest,Attaquant,6750,75,35
+Switzerland,Xherdan Shaqiri,Bâle,Attaquant,10800,120,32
+Qatar,Akram Afif,Al Sadd,Attaquant,8550,95,32
+USA,Christian Pulisic,AC Milan,Attaquant,6750,75,32
+Argentina,Ángel Di María,Benfica,Attaquant,12600,140,30
+Croatia,Andrej Kramarić,Hoffenheim,Attaquant,8550,95,30
+Algeria,Riyad Mahrez,Al Ahli,Attaquant,8550,95,30
+IR Iran,Karim Ansarifard,Omonia Nicosie,Attaquant,8550,95,30
+Canada,Cyle Larin,Real Valladolid,Attaquant,5850,65,29
+Canada,Jonathan David,Lille,Attaquant,4950,55,28
+Argentina,Lautaro Martínez,Inter Milan,Attaquant,4950,55,27
+Tunisia,Wahbi Khazri,Montpellier,Attaquant,7650,85,25
+Morocco,Youssef En-Nesyri,Fenerbahce,Attaquant,6300,70,25
+Uzbekistan,Eldor Shomurodov,Roma,Attaquant,4950,55,25
+Norway,Joshua King,Fenerbahce,Attaquant,6300,70,22
+Germany,Serge Gnabry,Bayern Munich,Attaquant,4050,45,22
+Saudi Arabia,Salem Al-Dawsari,Al Hilal,Attaquant,8550,95,20
+Ghana,Jordan Ayew,Crystal Palace,Attaquant,7650,85,20
+Germany,Kai Havertz,Arsenal,Attaquant,4950,55,20
+Norway,Alexander Sørloth,Atletico Madrid,Attaquant,4950,55,20
+Qatar,Mohammed Muntari,Al Duhail,Attaquant,4950,55,20
+Spain,Ferran Torres,Barcelona,Attaquant,4500,50,20
+Algeria,Baghdad Bounedjah,Al Sadd,Attaquant,4050,45,20
+Mexico,Hirving Lozano,PSV Eindhoven,Attaquant,6750,75,18
+Panama,Gabriel Torres,CAI La Chorrera,Attaquant,6300,70,18
+Haiti,Duckens Nazon,San Luis,Attaquant,4500,50,18
+England,Marcus Rashford,Manchester United,Attaquant,5400,60,17
+Korea Republic,Hwang Ui-jo,Nottingham Forest,Attaquant,4950,55,16
+Switzerland,Breel Embolo,Monaco,Attaquant,6300,70,15
+Cabo Verde,Ryan Mendes,Vitória Guimarães,Attaquant,5850,65,15
+Saudi Arabia,Saleh Al-Shehri,Al Ittihad,Attaquant,5400,60,15
+Austria,Michael Gregoritsch,Fribourg,Attaquant,4950,55,15
+South Africa,Percy Tau,Al Ahly,Attaquant,4050,45,15
+Uruguay,Darwin Núñez,Liverpool,Attaquant,4050,45,15
+Netherlands,Cody Gakpo,Liverpool,Attaquant,3600,40,15
+Morocco,Abderrazak Hamdallah,Al Ittihad,Attaquant,2700,30,15
+England,Bukayo Saka,Arsenal,Attaquant,4320,48,14
+Germany,Niclas Füllkrug,West Ham,Attaquant,1980,22,14
+Egypt,Mahmoud Hassan,Trabzonspor,Attaquant,5400,60,12
+Korea Republic,Hwang Hee-chan,Wolverhampton,Attaquant,5400,60,12
+Germany,Leroy Sané,Bayern Munich,Attaquant,4950,55,12
+Senegal,Ismaïla Sarr,Crystal Palace,Attaquant,4500,50,12
+Paraguay,Antonio Sanabria,Torino,Attaquant,4500,50,12
+Jordan,Moussa Al-Tamari,Montpellier,Attaquant,4500,50,12
+Cabo Verde,Bebé,Rayo Vallecano,Attaquant,4050,45,12
+Curaçao,Rangelo Janga,Nõmme Kalju,Attaquant,3600,40,12
+Spain,Mikel Oyarzabal,Real Sociedad,Attaquant,3600,40,12
+Brazil,Raphinha,Barcelona,Attaquant,3150,35,12
+Portugal,Diogo Jota,Liverpool,Attaquant,3150,35,12
+Netherlands,Wout Weghorst,Ajax,Attaquant,3150,35,12
+Qatar,Ahmed Alaaeldin,Al Gharafa,Attaquant,4950,55,10
+Belgium,Leandro Trossard,Arsenal,Attaquant,4500,50,10
+Colombia,Luis Díaz,Liverpool,Attaquant,4500,50,10
+Cabo Verde,Garry Rodrigues,Olympiakos,Attaquant,4500,50,10
+Australia,Craig Goodwin,Al Wehda,Attaquant,4050,45,10
+New Zealand,Marco Rojas,Melbourne Victory,Attaquant,4050,45,10
+Brazil,Vinícius Júnior,Real Madrid,Attaquant,3600,40,10
+Scotland,Lyndon Dykes,QPR,Attaquant,3600,40,10
+Tunisia,Seifeddine Jaziri,Zamalek,Attaquant,3600,40,10
+Croatia,Bruno Petković,Dinamo Zagreb,Attaquant,3600,40,10
+Japan,Kaoru Mitoma,Brighton,Attaquant,3150,35,10
+Ghana,Mohammed Kudus,West Ham,Attaquant,3150,35,10
+Argentina,Julián Álvarez,Atletico Madrid,Attaquant,3150,35,10
+Panama,Rolando Blackburn,Wisla Plock,Attaquant,3150,35,10
+Panama,José Fajardo,Independiente,Attaquant,2700,30,10
+Mexico,Santiago Giménez,Feyenoord,Attaquant,2250,25,10
+Australia,Jamie Maclaren,Melbourne City,Attaquant,2250,25,10
+USA,Ricardo Pepi,PSV Eindhoven,Attaquant,2520,28,9
+USA,Timothy Weah,Juventus,Attaquant,3600,40,8
+Algeria,Saïd Benrahma,Lyon,Attaquant,3600,40,8
+Colombia,Rafael Santos Borré,Internacional,Attaquant,3600,40,8
+Australia,Martin Boyle,Hibernian,Attaquant,3150,35,8
+Jordan,Yazan Al-Naimat,Al-Ahli Amman,Attaquant,3150,35,8
+Netherlands,Donyell Malen,Aston Villa,Attaquant,3150,35,8
+Egypt,Mostafa Mohamed,Nantes,Attaquant,3150,35,8
+Spain,Lamine Yamal,Barcelona,Attaquant,2700,30,8
+Brazil,Rodrygo,Real Madrid,Attaquant,2700,30,8
+Uzbekistan,Abbosbek Fayzullayev,CSKA Moscow,Attaquant,2700,30,8
+Portugal,Rafael Leão,AC Milan,Attaquant,2700,30,8
+Senegal,Famara Diédhiou,Alanyaspor,Attaquant,2700,30,8
+Scotland,Che Adams,Torino,Attaquant,2700,30,8
+Saudi Arabia,Feras Al-Buraikan,Al Ahli,Attaquant,2700,30,8
+Austria,Andreas Weimann,Bristol City,Attaquant,2700,30,8
+Haiti,Frantzdy Pierrot,Guingamp,Attaquant,2250,25,8
+Croatia,Ante Budimir,Osasuna,Attaquant,2250,25,8
+Korea Republic,Cho Gue-sung,Midtjylland,Attaquant,2250,25,8
+Curaçao,Gervane Kastaneer,Persis Solo,Attaquant,2250,25,8
+IR Iran,Shahriyar Moghanlou,Sepahan,Attaquant,2250,25,8
+Panama,Cecilio Waterman,Motagua,Attaquant,2250,25,8
+Belgium,Loïs Openda,RB Leipzig,Attaquant,1980,22,8
+France,Ousmane Dembélé,Paris Saint-Germain,Attaquant,4050,45,7
+Japan,Takefusa Kubo,Real Sociedad,Attaquant,3600,40,7
+Mexico,Alexis Vega,Toluca,Attaquant,3150,35,7
+Haiti,Kervens Belfort,Charleston Battery,Attaquant,2700,30,7
+Australia,Mitchell Duke,Machida Zelvia,Attaquant,2700,30,7
+USA,Jesús Ferreira,FC Dallas,Attaquant,1980,22,7
+Colombia,Jhon Arias,Tottenham,Attaquant,3150,35,6
+Ecuador,Gonzalo Plata,Flamengo,Attaquant,3150,35,6
+Japan,Daizen Maeda,Celtic,Attaquant,2250,25,6
+Senegal,Boulaye Dia,Lazio,Attaquant,2250,25,6
+South Africa,Thembinkosi Lorch,Orlando Pirates,Attaquant,2250,25,6
+Paraguay,Adam Bareiro,River Plate,Attaquant,1980,22,6
+England,Ollie Watkins,Aston Villa,Attaquant,1800,20,6
+Egypt,Omar Marmoush,Manchester City,Attaquant,1800,20,6
+IR Iran,Ali Alipour,Persepolis,Attaquant,1800,20,6
+Uzbekistan,Azizbek Turgunboev,Nasaf Qarshi,Attaquant,1800,20,6
+Portugal,Gonçalo Ramos,Paris Saint-Germain,Attaquant,1620,18,6
+Switzerland,Renato Steffen,Lugano,Attaquant,3150,35,5
+Côte d'Ivoire,Wilfried Zaha,Charlotte FC,Attaquant,3150,35,5
+Belgium,Jérémy Doku,Manchester City,Attaquant,2700,30,5
+Morocco,Sofiane Boufal,Al Rayyan,Attaquant,2700,30,5
+France,Marcus Thuram,Inter Milan,Attaquant,2250,25,5
+Spain,Nico Williams,Athletic Bilbao,Attaquant,2250,25,5
+Switzerland,Noah Okafor,AC Milan,Attaquant,2250,25,5
+New Zealand,Elijah Just,Ulsan Hyundai,Attaquant,2250,25,5
+Ghana,Iñaki Williams,Athletic Bilbao,Attaquant,1800,20,5
+Japan,Ayase Ueda,Feyenoord,Attaquant,1800,20,5
+Saudi Arabia,Abdulrahman Al-Hamdan,Al Ittihad,Attaquant,1800,20,5
+Ecuador,Leonardo Campana,New England Revolution,Attaquant,1620,18,5
+Paraguay,Julio Enciso,Brighton,Attaquant,1350,15,5
+Norway,Jørgen Strand Larsen,Wolverhampton,Attaquant,1350,15,5
+South Africa,Peter Shalulile,Mamelodi Sundowns,Attaquant,1350,15,5
+Scotland,Lawrence Shankland,Hearts,Attaquant,1350,15,5
+Haiti,Ronaldo Damus,San Antonio FC,Attaquant,1350,15,5
+Paraguay,Alex Arce,LDU Quito,Attaquant,1350,15,5
+Curaçao,Jürgen Locadia,Libre,Attaquant,1350,15,5
+Jordan,Oday Al-Odat,Al-Faisaly,Attaquant,1350,15,5
+Panama,Eduardo Guerrero,Club América,Attaquant,1350,15,5
+Curaçao,Kenji Gorré,Maccabi Haïfa,Attaquant,2250,25,4
+Tunisia,Elias Achouri,FC Copenhague,Attaquant,1800,20,4
+Uruguay,Brian Rodríguez,América,Attaquant,1800,20,4
+Jordan,Ahmad Al-Suraih,Al-Salt,Attaquant,1800,20,4
+Ghana,Osman Bukari,Red Star Belgrade,Attaquant,1800,20,4
+South Africa,Evidence Makgopa,Orlando Pirates,Attaquant,1620,18,4
+Côte d'Ivoire,Sébastien Haller,Dortmund,Attaquant,1350,15,4
+Morocco,Brahim Díaz,Real Madrid,Attaquant,1350,15,4
+Japan,Kyogo Furuhashi,Celtic,Attaquant,1350,15,4
+Senegal,Nicolas Jackson,Chelsea,Attaquant,1350,15,4
+USA,Folarin Balogun,Monaco,Attaquant,1350,15,4
+Côte d'Ivoire,Vakoun Bayo,Udinese,Attaquant,1350,15,4
+Cabo Verde,Nuno Borges,CD Santa Clara,Attaquant,1350,15,4
+Algeria,Amine Gouiri,Rennes,Attaquant,1350,15,4
+Uzbekistan,Bobur Abdikholikov,Al Nassr,Attaquant,1350,15,4
+Brazil,Endrick,Real Madrid,Attaquant,1080,12,4
+Paraguay,Isidro Pitta,Cuiabá,Attaquant,1080,12,4
+Haiti,Ricardo Adé Jr.,Violette AC,Attaquant,900,10,4
+Germany,Deniz Undav,Stuttgart,Attaquant,720,8,4
+Scotland,Ryan Fraser,Southampton,Attaquant,2250,25,3
+Côte d'Ivoire,Simon Adingra,Brighton,Attaquant,1800,20,3
+Uruguay,Facundo Pellistri,Granada,Attaquant,1800,20,3
+Colombia,Luis Sinisterra,Bournemouth,Attaquant,1800,20,3
+South Africa,Lyle Foster,Burnley,Attaquant,1800,20,3
+New Zealand,Ben Waine,Plymouth,Attaquant,1350,15,3
+Portugal,Pedro Neto,Chelsea,Attaquant,1350,15,3
+Canada,Jacob Shaffelburg,Nashville SC,Attaquant,1350,15,3
+Côte d'Ivoire,Amad Diallo,Manchester United,Attaquant,1350,15,3
+Tunisia,Elias Saad,Augsbourg,Attaquant,1350,15,3
+Uruguay,Maximiliano Araújo,Sporting CP,Attaquant,1350,15,3
+Ghana,Antoine Semenyo,Bournemouth,Attaquant,1350,15,3
+France,Bradley Barcola,Paris Saint-Germain,Attaquant,1080,12,3
+Argentina,Alejandro Garnacho,Manchester United,Attaquant,1080,12,3
+Colombia,Jhon Durán,Aston Villa,Attaquant,1080,12,3
+Switzerland,Kwadwo Duah,Ludogorets,Attaquant,1080,12,3
+Austria,Junior Adamu,Red Bull Salzbourg,Attaquant,1080,12,3
+England,Anthony Gordon,Newcastle,Attaquant,900,10,3
+Egypt,Ahmed Abdel Kader,Al Ahly,Attaquant,900,10,3
+Korea Republic,Oh Hyeon-gyu,Celtic,Attaquant,900,10,3
+Qatar,Hashim Ali,Al Sadd,Attaquant,900,10,3
+Ecuador,Kevin Rodríguez,Union Saint-Gilloise,Attaquant,900,10,3
+Uruguay,Luciano Rodríguez,Bahia,Attaquant,900,10,3
+Saudi Arabia,Ayman Al-Khulaif,Al Shabab,Attaquant,900,10,3
+Cabo Verde,Fabricio Garcia,Estoril,Attaquant,900,10,3
+Jordan,Ali Al-Junidi,Al-Arabi Amman,Attaquant,900,10,3
+Uzbekistan,Ibrokhimkhalil Yodgorov,AGMK,Attaquant,900,10,3
+Norway,Antonio Nusa,RB Leipzig,Attaquant,1080,12,2
+Brazil,Savinho,Manchester City,Attaquant,900,10,2
+Belgium,Johan Bakayoko,PSV Eindhoven,Attaquant,900,10,2
+Mexico,César Huerta,Anderlecht,Attaquant,900,10,2
+Canada,Tani Oluwaseyi,Minnesota United,Attaquant,900,10,2
+Scotland,Lewis Morgan,New York Red Bulls,Attaquant,900,10,2
+Tunisia,Sebastian Tounekti,Celtic,Attaquant,900,10,2
+Netherlands,Joshua Zirkzee,Manchester United,Attaquant,720,8,2
+Croatia,Igor Matanović,Eintracht Francfort,Attaquant,720,8,2
+Ecuador,Alan Minda,Atlético Mineiro,Attaquant,720,8,2
+Curaçao,Sontje Hansen,NEC Nijmegen,Attaquant,720,8,2
+New Zealand,Jesse Randall,Auckland FC,Attaquant,720,8,2
+Austria,Kevin Stöger,Borussia Mönchengladbach,Attaquant,720,8,2
+Canada,Jacen Russell-Rowe,Columbus Crew,Attaquant,720,8,1
+Australia,Garang Kuol,Newcastle United,Attaquant,720,8,1
+Morocco,Ilias Akhomach,Villarreal,Attaquant,450,5,1
+Qatar,Hassan Al-Haydos,Al Sadd,Milieu,15750,175,30
+Belgium,Kevin De Bruyne,Manchester City,Milieu,9450,105,30
+Mexico,Andrés Guardado,León,Milieu,16200,180,28
+Netherlands,Georginio Wijnaldum,Al Ettifaq,Milieu,8550,95,26
+Croatia,Luka Modrić,Real Madrid,Milieu,16020,178,25
+Colombia,James Rodríguez,León,Milieu,9000,100,25
+Jordan,Hamza Al-Dardour,Ittihad Kalba,Milieu,7200,80,25
+Portugal,Bruno Fernandes,Manchester United,Milieu,6300,70,25
+Ghana,André Ayew,Le Havre,Milieu,10800,120,24
+Morocco,Hakim Ziyech,Galatasaray,Milieu,4950,55,20
+Japan,Takumi Minamino,Monaco,Milieu,4950,55,20
+Austria,Marcel Sabitzer,Dortmund,Milieu,7650,85,18
+Algeria,Sofiane Feghouli,Fatih Karagümrük,Milieu,7650,85,18
+Scotland,John McGinn,Aston Villa,Milieu,6750,75,18
+Germany,Toni Kroos,Retraité (Real Madrid),Milieu,10260,114,17
+Portugal,Bernardo Silva,Manchester City,Milieu,8550,95,15
+Paraguay,Miguel Almirón,Newcastle,Milieu,5400,60,15
+Jordan,Baha' Faisal,Al-Wehdat,Milieu,4950,55,15
+Germany,Leon Goretzka,Bayern Munich,Milieu,5400,60,14
+Switzerland,Granit Xhaka,Bayer Leverkusen,Milieu,11250,125,13
+Ghana,Thomas Partey,Arsenal,Milieu,4950,55,13
+IR Iran,Alireza Jahanbakhsh,FCV Dender,Milieu,6300,70,12
+USA,Weston McKennie,Juventus,Milieu,5850,65,12
+Brazil,Lucas Paquetá,West Ham,Milieu,4950,55,12
+Egypt,Ahmed Hassan Kouka,Olympiacos,Milieu,3600,40,12
+Panama,Alberto Quintero,Universitario,Milieu,7200,80,10
+Uzbekistan,Jaloliddin Masharipov,Sharjah,Milieu,6750,75,10
+Saudi Arabia,Salman Al-Faraj,Al Hilal,Milieu,6750,75,10
+Jordan,Yaseen Al-Bakhit,Al-Wehdat,Milieu,6300,70,10
+Côte d'Ivoire,Franck Kessié,Al Ahli,Milieu,5850,65,10
+Korea Republic,Lee Jae-sung,Mainz 05,Milieu,5850,65,10
+Norway,Martin Ødegaard,Arsenal,Milieu,5400,60,10
+Uruguay,Federico Valverde,Real Madrid,Milieu,4950,55,10
+Ecuador,Ángel Mena,León,Milieu,4950,55,10
+England,Jude Bellingham,Real Madrid,Milieu,4500,50,10
+Australia,Aaron Mooy,Shanghai Port,Milieu,5850,65,9
+Croatia,Marcelo Brozović,Al Nassr,Milieu,9000,100,8
+Scotland,Callum McGregor,Celtic,Milieu,6300,70,8
+Tunisia,Ferjani Sassi,Al-Duhail,Milieu,6300,70,8
+Belgium,Youri Tielemans,Aston Villa,Milieu,5850,65,8
+Colombia,Mateus Uribe,Al-Sadd,Milieu,5850,65,8
+Spain,Rodri,Manchester City,Milieu,5400,60,8
+Canada,Jonathan Osorio,Toronto FC,Milieu,5400,60,8
+Qatar,Abdulaziz Hatem Al-Maqaleh,Al Rayyan,Milieu,5400,60,8
+Tunisia,Naïm Sliti,Ettifaq,Milieu,4950,55,8
+Panama,Édgar Bárcenas,Mazatlán,Milieu,4950,55,8
+Norway,Mohamed Elyounoussi,Brann,Milieu,4950,55,8
+Scotland,Scott McTominay,Naples,Milieu,4950,55,8
+Uzbekistan,Jasur Yakhshiboev,Pakhtakor,Milieu,4500,50,8
+Curaçao,Leandro Bacuna,Al Jazira,Milieu,4050,45,8
+Austria,Christoph Baumgartner,RB Leipzig,Milieu,4050,45,8
+England,Phil Foden,Manchester City,Milieu,4050,45,8
+Spain,Dani Olmo,Barcelona,Milieu,4050,45,8
+Mexico,Orbelin Pineda,AEK Athènes,Milieu,4050,45,8
+Uruguay,Giorgian De Arrascaeta,Flamengo,Milieu,4050,45,8
+Germany,Jamal Musiala,Bayern Munich,Milieu,3600,40,8
+Japan,Ritsu Doan,Fribourg,Milieu,3600,40,8
+South Africa,Themba Zwane,Mamelodi Sundowns,Milieu,3150,35,8
+Korea Republic,Kwon Chang-hoon,Gimcheon Sangmu,Milieu,3150,35,8
+Brazil,Casemiro,Manchester United,Milieu,6750,75,7
+Australia,Jackson Irvine,St. Pauli,Milieu,5400,60,7
+USA,Brenden Aaronson,Leeds United,Milieu,4860,54,7
+Scotland,Ryan Christie,Bournemouth,Milieu,4500,50,7
+IR Iran,Ali Gholizadeh,Charleroi,Milieu,4050,45,7
+Japan,Junya Ito,Bayern Munich,Milieu,4050,45,7
+France,Adrien Rabiot,Olympique de Marseille,Milieu,4500,50,6
+Canada,Tajon Buchanan,Inter Milan,Milieu,3600,40,6
+Cabo Verde,Hélder Costa,Leeds,Milieu,3600,40,6
+Spain,Fabián Ruiz,Paris Saint-Germain,Milieu,3600,40,6
+Croatia,Mario Pašalić,Atalanta,Milieu,3600,40,6
+Haiti,Derrick Etienne Jr.,LA Galaxy,Milieu,3150,35,6
+Mexico,Luis Romo,Monterrey,Milieu,3150,35,6
+England,Cole Palmer,Chelsea,Milieu,1620,18,6
+Senegal,Idrissa Gueye,Everton,Milieu,9000,100,5
+Egypt,Mohamed Elneny,Al Ahly,Milieu,9000,100,5
+Panama,Aníbal Godoy,Nashville SC,Milieu,9000,100,5
+Croatia,Mateo Kovačić,Manchester City,Milieu,8550,95,5
+Senegal,Cheikhou Kouyaté,Nottingham Forest,Milieu,8100,90,5
+Qatar,Abdulaziz Hatem,Al Duhail,Milieu,7200,80,5
+Argentina,Rodrigo De Paul,Atletico Madrid,Milieu,5850,65,5
+Saudi Arabia,Mohamed Kanno,Al Hilal,Milieu,5850,65,5
+England,Declan Rice,Arsenal,Milieu,4950,55,5
+Japan,Wataru Endo,Liverpool,Milieu,4950,55,5
+Algeria,Ismaël Bennacer,AC Milan,Milieu,4950,55,5
+Tunisia,Ellyes Skhiri,Eintracht Francfort,Milieu,4950,55,5
+Saudi Arabia,Sami Al-Najei,Al Nassr,Milieu,4500,50,5
+France,Aurélien Tchouaméni,Real Madrid,Milieu,4050,45,5
+Jordan,Mahmoud Al-Mardi,Al-Wehdat,Milieu,4050,45,5
+Argentina,Giovani Lo Celso,Real Betis,Milieu,4050,45,5
+IR Iran,Saman Ghoddos,Brentford,Milieu,4050,45,5
+England,Mason Mount,Manchester United,Milieu,3600,40,5
+Korea Republic,Lee Kang-in,Paris Saint-Germain,Milieu,3150,35,5
+Argentina,Alexis Mac Allister,Liverpool,Milieu,3150,35,5
+Colombia,Juan Fernando Quintero,Racing Club,Milieu,3150,35,5
+Egypt,Ramadan Sobhi,Pyramids FC,Milieu,3150,35,5
+Cabo Verde,Jamiro Monteiro,PEC Zwolle,Milieu,3150,35,5
+Uzbekistan,Oston Urunov,Lens,Milieu,3150,35,5
+Panama,José Luis Rodríguez,Saprissa,Milieu,3150,35,5
+Germany,Florian Wirtz,Bayer Leverkusen,Milieu,2700,30,5
+Curaçao,Juninho Bacuna,Rangers,Milieu,2700,30,5
+New Zealand,Sarpreet Singh,Regensburg,Milieu,2700,30,5
+Japan,Daichi Kamada,Crystal Palace,Milieu,2700,30,5
+South Africa,Teboho Mokoena,Mamelodi Sundowns,Milieu,2700,30,5
+USA,Gio Reyna,Borussia Dortmund,Milieu,2700,30,5
+IR Iran,Mehdi Torabi,Tractor,Milieu,2700,30,5
+Saudi Arabia,Hattan Bahebri,Al Shabab,Milieu,2700,30,5
+Netherlands,Tijjani Reijnders,AC Milan,Milieu,2250,25,5
+Uruguay,Facundo Torres,Palmeiras,Milieu,2250,25,5
+Paraguay,Matías Rojas,Inter Miami,Milieu,1800,20,5
+Côte d'Ivoire,Seko Fofana,Rennes,Milieu,1800,20,5
+IR Iran,Vahid Amiri,Persepolis,Milieu,5400,60,4
+Argentina,Leandro Paredes,Roma,Milieu,4950,55,4
+Korea Republic,Hwang In-beom,Feyenoord,Milieu,4500,50,4
+Australia,Massimo Luongo,Ipswich Town,Milieu,4500,50,4
+IR Iran,Ahmad Nourollahi,Shabab Al-Ahli,Milieu,3600,40,4
+New Zealand,Ryan Thomas,PEC Zwolle,Milieu,3600,40,4
+Argentina,Enzo Fernández,Chelsea,Milieu,2700,30,4
+Argentina,Nicolás González,Juventus,Milieu,2700,30,4
+Jordan,Salem Al-Ajalin,Al-Faisaly,Milieu,2700,30,4
+Spain,Mikel Merino,Arsenal,Milieu,2250,25,4
+Egypt,Ahmed Sayed Zizo,Zamalek,Milieu,2250,25,4
+Haiti,Derrick Etienne Sr.,New England Revolution,Milieu,2250,25,4
+Netherlands,Xavi Simons,RB Leipzig,Milieu,1800,20,4
+Saudi Arabia,Hassan Kadesh,Al Ahli,Milieu,1800,20,4
+Algeria,Farid Boulaya,Qatar SC,Milieu,1800,20,4
+Uzbekistan,Dostonbek Khamdamov,Pakhtakor,Milieu,1620,18,4
+Korea Republic,Jung Woo-young,Al Sadd,Milieu,8550,95,3
+Mexico,Edson Álvarez,West Ham,Milieu,5850,65,3
+Switzerland,Remo Freuler,Bologna,Milieu,5850,65,3
+Uruguay,Rodrigo Bentancur,Tottenham,Milieu,5400,60,3
+Netherlands,Frenkie de Jong,Barcelona,Milieu,4950,55,3
+Saudi Arabia,Abdullah Otayf,Al Hilal,Milieu,4950,55,3
+Norway,Sander Berge,Fulham,Milieu,4500,50,3
+Colombia,Jefferson Lerma,Crystal Palace,Milieu,4500,50,3
+Côte d'Ivoire,Jean-Michaël Seri,Maribor,Milieu,4500,50,3
+Mexico,Erick Gutiérrez,PSV Eindhoven,Milieu,4050,45,3
+Switzerland,Denis Zakaria,Monaco,Milieu,4050,45,3
+Austria,Konrad Laimer,Bayern Munich,Milieu,4050,45,3
+Panama,Adalberto Carrasquilla,Houston Dynamo,Milieu,4050,45,3
+USA,Cristian Roldan,Seattle Sounders,Milieu,3690,41,3
+Spain,Pedri,Barcelona,Milieu,3600,40,3
+Ecuador,Moisés Caicedo,Chelsea,Milieu,3600,40,3
+Portugal,Rúben Neves,Al Hilal,Milieu,3600,40,3
+Haiti,Kevin Lafrance,Académica de Coimbra,Milieu,3600,40,3
+Uzbekistan,Otabek Shukurov,Al-Fateh,Milieu,3600,40,3
+Canada,Stephen Eustáquio,Porto,Milieu,3150,35,3
+Scotland,Kenny McLean,Norwich,Milieu,3150,35,3
+Côte d'Ivoire,Ibrahim Sangaré,Nottingham Forest,Milieu,3150,35,3
+Austria,Florian Grillitsch,Hoffenheim,Milieu,3150,35,3
+Algeria,Nabil Bentaleb,Lille,Milieu,3150,35,3
+Spain,Gavi,Barcelona,Milieu,2700,30,3
+Belgium,Hans Vanaken,Club Bruges,Milieu,2700,30,3
+Japan,Ao Tanaka,Leeds United,Milieu,2700,30,3
+Qatar,Musaab Khidir,Al Duhail,Milieu,2700,30,3
+Paraguay,Mathías Villasanti,Grêmio,Milieu,2700,30,3
+Tunisia,Mohamed Ali Ben Romdhane,Ferencváros,Milieu,2700,30,3
+New Zealand,Joe Bell,Viking FK,Milieu,2700,30,3
+Brazil,Bruno Guimarães,Newcastle,Milieu,2250,25,3
+Portugal,Vitinha,Paris Saint-Germain,Milieu,2250,25,3
+Belgium,Amadou Onana,Aston Villa,Milieu,2250,25,3
+Croatia,Lovro Majer,Wolfsburg,Milieu,2250,25,3
+Mexico,Carlos Rodríguez,Cruz Azul,Milieu,2250,25,3
+Australia,Ajdin Hrustic,Hellas Verona,Milieu,2250,25,3
+Algeria,Hicham Boudaoui,Nice,Milieu,2250,25,3
+Jordan,Nizar Al-Rawshdeh,Al-Faisaly,Milieu,2250,25,3
+Ghana,Daniel-Kofi Kyereh,Fribourg,Milieu,1980,22,3
+Brazil,Douglas Luiz,Juventus,Milieu,1800,20,3
+Egypt,Emam Ashour,Al Ahly,Milieu,1800,20,3
+Canada,Liam Millar,Preston North End,Milieu,1800,20,3
+Haiti,Jean-Louis Ménard,Racing Club Haïtien,Milieu,1800,20,3
+Ecuador,José Cifuentes,Cruzeiro,Milieu,1800,20,3
+Saudi Arabia,Abdulrahman Al-Aboud,Al Ittihad,Milieu,1800,20,3
+Panama,César Yanis,Wolfsburg,Milieu,1800,20,3
+Croatia,Luka Sučić,Real Sociedad,Milieu,1620,18,3
+Morocco,Selim Amallah,Real Valladolid,Milieu,1620,18,3
+Senegal,Iliman Ndiaye,Everton,Milieu,1620,18,3
+USA,Malik Tillman,PSV Eindhoven,Milieu,1620,18,3
+Paraguay,Ramón Sosa,Nottingham Forest,Milieu,1620,18,3
+Australia,Riley McGree,Middlesbrough,Milieu,1620,18,3
+Curaçao,Tahith Chong,Sheffield United,Milieu,1350,15,3
+New Zealand,Alex Greive,Melbourne Victory,Milieu,1350,15,3
+France,Michael Olise,Bayern Munich,Milieu,1080,12,3
+Germany,Pascal Groß,Borussia Dortmund,Milieu,900,10,3
+Qatar,Karim Boudiaf,Al Duhail,Milieu,7200,80,2
+France,N'Golo Kanté,Al-Ittihad,Milieu,5400,60,2
+Egypt,Tarek Hamed,Zamalek,Milieu,4950,55,2
+IR Iran,Saeid Ezatolahi,Shabab Al-Ahli,Milieu,4950,55,2
+Switzerland,Djibril Sow,Séville,Milieu,3600,40,2
+USA,Yunus Musah,AC Milan,Milieu,3600,40,2
+Uruguay,Nahitan Nández,Al-Qadsiah,Milieu,3600,40,2
+Portugal,João Palhinha,Bayern Munich,Milieu,3150,35,2
+Norway,Morten Thorsby,Union Berlin,Milieu,3150,35,2
+Tunisia,Aïssa Laïdouni,Al-Wakrah,Milieu,3150,35,2
+Korea Republic,Son Jun-ho,Shandong Taishan,Milieu,2700,30,2
+Morocco,Azzedine Ounahi,Marseille,Milieu,2520,28,2
+Senegal,Pape Matar Sarr,Tottenham,Milieu,2250,25,2
+Korea Republic,Paik Seung-ho,Jeonbuk Hyundai,Milieu,2250,25,2
+Switzerland,Michel Aebischer,Bologna,Milieu,2250,25,2
+Ecuador,Alan Franco,Atlético Mineiro,Milieu,2250,25,2
+Cabo Verde,Kenny Rocha Santos,FC Rouen,Milieu,2250,25,2
+Panama,Cristian Martínez,Alianza FC,Milieu,2250,25,2
+Argentina,Exequiel Palacios,Bayer Leverkusen,Milieu,1800,20,2
+Portugal,Otávio,Al Nassr,Milieu,1800,20,2
+Canada,Ismael Koné,Marseille,Milieu,1800,20,2
+New Zealand,Marko Stamenic,Red Bull Salzbourg,Milieu,1800,20,2
+Algeria,Ramiz Zerrouki,Twente,Milieu,1800,20,2
+Uzbekistan,Jamshid Iskanderov,Lokomotiv Tashkent,Milieu,1800,20,2
+Netherlands,Ryan Gravenberch,Liverpool,Milieu,1620,18,2
+Croatia,Luka Ivanušec,Feyenoord,Milieu,1620,18,2
+New Zealand,Matthew Garbett,NAC Breda,Milieu,1620,18,2
+Colombia,Richard Ríos,Palmeiras,Milieu,1350,15,2
+Switzerland,Fabian Rieder,Stuttgart,Milieu,1350,15,2
+France,Warren Zaïre-Emery,Paris Saint-Germain,Milieu,1350,15,2
+England,Conor Gallagher,Atletico Madrid,Milieu,1350,15,2
+England,Kobbie Mainoo,Manchester United,Milieu,1350,15,2
+Spain,Martín Zubimendi,Real Sociedad,Milieu,1350,15,2
+Brazil,Gerson,Flamengo,Milieu,1350,15,2
+Germany,Robert Andrich,Bayer Leverkusen,Milieu,1350,15,2
+Egypt,Ibrahim Adel,Al Ahly,Milieu,1350,15,2
+Canada,Mathieu Choinière,CF Montréal,Milieu,1350,15,2
+Switzerland,Dan Ndoye,Bologna,Milieu,1350,15,2
+Haiti,Danley Jean Jacques,Memphis 901,Milieu,1350,15,2
+Paraguay,Diego Gómez,Brighton,Milieu,1350,15,2
+Curaçao,Godfried Roemeratoe,Go Ahead Eagles,Milieu,1350,15,2
+Tunisia,Houssem Tka,Espérance de Tunis,Milieu,1350,15,2
+New Zealand,Callum McCowatt,Wellington Phoenix,Milieu,1350,15,2
+Uruguay,Emiliano Martínez,Palmeiras,Milieu,1350,15,2
+Austria,Romano Schmid,Werder Brême,Milieu,1350,15,2
+Algeria,Houssem Aouar,Al-Ittihad,Milieu,1350,15,2
+Jordan,Mohannad Al-Saify,Al-Ramtha,Milieu,1350,15,2
+Ghana,Kamaldeen Sulemana,Southampton,Milieu,1350,15,2
+Netherlands,Joey Veerman,PSV Eindhoven,Milieu,1080,12,2
+Haiti,Melchie Dumornay,Louisville City,Milieu,1080,12,2
+Austria,Patrick Wimmer,Wolfsburg,Milieu,1080,12,2
+Uzbekistan,Aziz Ganiev,Steaua Bucarest,Milieu,1080,12,2
+Ghana,Majeed Ashimeru,Anderlecht,Milieu,1080,12,2
+Ecuador,Kendry Páez,Independiente del Valle,Milieu,900,10,2
+Colombia,Jorge Carrascal,Dinamo Moscou,Milieu,900,10,2
+Cabo Verde,Telmo Arcanjo,Vitória Guimarães,Milieu,900,10,2
+Morocco,Sofyan Amrabat,Fenerbahce,Milieu,5400,60,1
+USA,Tyler Adams,Bournemouth,Milieu,4680,52,1
+Qatar,Assim Madibo,Al Duhail,Milieu,4500,50,1
+Ecuador,Carlos Gruezo,San José Earthquakes,Milieu,4500,50,1
+Canada,Samuel Piette,CF Montréal,Milieu,4050,45,1
+Scotland,Billy Gilmour,Naples,Milieu,2700,30,1
+Scotland,Ryan Jack,Rangers,Milieu,2700,30,1
+Uruguay,Manuel Ugarte,Manchester United,Milieu,2700,30,1
+Austria,Nicolas Seiwald,RB Leipzig,Milieu,2700,30,1
+Japan,Hidemasa Morita,Sporting CP,Milieu,2520,28,1
+France,Eduardo Camavinga,Real Madrid,Milieu,2250,25,1
+Norway,Fredrik Aursnes,Benfica,Milieu,2250,25,1
+Paraguay,Andrés Cubas,Vancouver Whitecaps,Milieu,2250,25,1
+Côte d'Ivoire,Jean-Philippe Gbamin,Metz,Milieu,2250,25,1
+Tunisia,Hannibal Mejbri,Burnley,Milieu,2250,25,1
+France,Youssouf Fofana,AC Milan,Milieu,1800,20,1
+Senegal,Pape Gueye,Villarreal,Milieu,1800,20,1
+Norway,Mathias Normann,Lecce,Milieu,1800,20,1
+Cabo Verde,Deroy Duarte,Sparta Rotterdam,Milieu,1800,20,1
+Portugal,João Neves,Paris Saint-Germain,Milieu,1620,18,1
+Norway,Patrick Berg,Lens,Milieu,1620,18,1
+Ghana,Salis Abdul Samed,Lens,Milieu,1620,18,1
+Netherlands,Jerdy Schouten,PSV Eindhoven,Milieu,1350,15,1
+Colombia,Kevin Castaño,Krasnodar,Milieu,1350,15,1
+Qatar,Ahmed Fathi,Al Wakrah,Milieu,1350,15,1
+Haiti,Steeven Saba,Don Bosco FC,Milieu,1350,15,1
+Australia,Keanu Baccus,Mansfield Town,Milieu,1350,15,1
+Cabo Verde,David Tavares,Benfica B,Milieu,1350,15,1
+Morocco,Bilal El Khannouss,Leicester City,Milieu,1080,12,1
+Senegal,Joseph Lopy,Real Valladolid,Milieu,1080,12,1
+South Africa,Sipho Mbule,Mamelodi Sundowns,Milieu,1080,12,1
+Paraguay,Braian Ojeda,Real Salt Lake,Milieu,1080,12,1
+Ecuador,Jeremy Sarmiento,Burnley,Milieu,1080,12,1
+Curaçao,Kevin Felida,ADO Den Haag,Milieu,1080,12,1
+Brazil,João Gomes,Wolverhampton,Milieu,900,10,1
+Mexico,Marcel Ruiz,Sporting Kansas City,Milieu,900,10,1
+South Africa,Ethan Brooks,TS Galaxy,Milieu,900,10,1
+Morocco,Imran Louza,Watford,Milieu,720,8,1
+South Africa,Bathusi Aubaas,Young Africans,Milieu,720,8,1
+Côte d'Ivoire,Christ Inao Oulai,Trabzonspor,Milieu,720,8,1
+Curaçao,Rayvien Rosario,Willem II,Milieu,720,8,1
+Cabo Verde,Kevin Pina,FC Famalicão,Milieu,720,8,1
+Belgium,Arne Engels,Celtic,Milieu,450,5,1
+Senegal,Nampalys Mendy,RC Lens,Milieu,2700,30,0
+Ghana,Iddrisu Baba,RCD Majorque,Milieu,1800,20,0
+Belgium,Albert-Mboyo Lokonga,Sevilla,Milieu,1080,12,0
+Belgium,Orel Mangala,Lyon,Milieu,900,10,0
+Morocco,Amir Richardson,Fiorentina,Milieu,900,10,0
+South Africa,Sphephelo Sithole,Belenenses,Milieu,900,10,0
+Australia,Cameron Devlin,Hearts,Milieu,900,10,0
+Côte d'Ivoire,Armel Zohouri,Lorient,Milieu,900,10,0
+Curaçao,Nicky Souren,MVV Maastricht,Milieu,900,10,0
+Brazil,André,Wolverhampton,Milieu,720,8,0
+South Africa,Luke Fleurs,Stellenbosch FC,Milieu,720,8,0
+Germany,Aleksandar Pavlović,Bayern Munich,Milieu,450,5,0
+Canada,Alphonso Davies,Bayern Munich,Defenseur,4500,50,15
+Japan,Maya Yoshida,Los Angeles Galaxy,Defenseur,11700,130,14
+Austria,David Alaba,Real Madrid,Defenseur,9900,110,14
+Belgium,Axel Witsel,Atletico Madrid,Defenseur,11700,130,12
+Belgium,Jan Vertonghen,Anderlecht,Defenseur,13950,155,10
+Argentina,Nicolás Otamendi,Benfica,Defenseur,9900,110,10
+Morocco,Achraf Hakimi,Paris Saint-Germain,Defenseur,7200,80,10
+Switzerland,Ricardo Rodríguez,Betis Séville,Defenseur,9900,110,9
+Portugal,Pepe,Retraité,Defenseur,12690,141,8
+Switzerland,Fabian Schär,Newcastle,Defenseur,7650,85,8
+Paraguay,Gustavo Gómez,Palmeiras,Defenseur,7650,85,8
+Tunisia,Ali Maâloul,Al Ahly,Defenseur,7200,80,8
+Belgium,Thomas Meunier,Trabzonspor,Defenseur,5850,65,8
+Netherlands,Virgil van Dijk,Liverpool,Defenseur,4950,55,8
+Portugal,Raphaël Guerreiro,Bayern Munich,Defenseur,4950,55,8
+Netherlands,Denzel Dumfries,Inter Milan,Defenseur,4950,55,8
+Colombia,Yerry Mina,Cagliari,Defenseur,4950,55,8
+Algeria,Ramy Bensebaïni,Dortmund,Defenseur,4500,50,8
+Brazil,Marquinhos,Paris Saint-Germain,Defenseur,7650,85,7
+Qatar,Abdelkarim Hassan,Al Sadd,Defenseur,10800,120,6
+Korea Republic,Kim Young-gwon,Ulsan Hyundai,Defenseur,9900,110,5
+Germany,Joshua Kimmich,Bayern Munich,Defenseur,8550,95,5
+Uruguay,José María Giménez,Atletico Madrid,Defenseur,8100,90,5
+Morocco,Romain Saïss,Al Shabab,Defenseur,7200,80,5
+Korea Republic,Kim Jin-su,Jeonbuk Hyundai,Defenseur,6750,75,5
+Scotland,Andrew Robertson,Liverpool,Defenseur,6750,75,5
+Egypt,Ahmed Hegazi,Ittihad,Defenseur,6300,70,5
+Haiti,Wilde-Donald Guerrier,Violette AC,Defenseur,5400,60,5
+IR Iran,Morteza Pouraliganji,Persepolis,Defenseur,5400,60,5
+Spain,Dani Carvajal,Real Madrid,Defenseur,4950,55,5
+France,Theo Hernandez,AC Milan,Defenseur,2700,30,5
+Japan,Yuto Nagatomo,FC Tokyo,Defenseur,12600,140,4
+Qatar,Pedro Miguel,Al Sadd,Defenseur,7650,85,4
+Panama,Adolfo Machado,Houston Dynamo,Defenseur,6750,75,4
+Brazil,Danilo,Santos,Defenseur,5850,65,4
+France,Benjamin Pavard,Inter Milan,Defenseur,4950,55,4
+Portugal,João Cancelo,Al Hilal,Defenseur,4950,55,4
+Cabo Verde,Roberto Lopes,Olympiacos,Defenseur,4500,50,4
+Paraguay,Junior Alonso,Krasnodar,Defenseur,4500,50,4
+Argentina,Marcos Acuña,Sevilla,Defenseur,4050,45,4
+New Zealand,Bill Tuiloma,Charlotte FC,Defenseur,4050,45,4
+Algeria,Youcef Atal,Nice,Defenseur,3150,35,4
+Colombia,Daniel Muñoz,Crystal Palace,Defenseur,2700,30,4
+Netherlands,Daley Blind,Girona,Defenseur,9450,105,3
+Saudi Arabia,Yasser Al-Shahrani,Al Hilal,Defenseur,7200,80,3
+Senegal,Kalidou Koulibaly,Al Hilal,Defenseur,6750,75,3
+Qatar,Boualem Khoukhi,Al Sadd,Defenseur,6750,75,3
+Algeria,Aïssa Mandi,Lille,Defenseur,6750,75,3
+England,John Stones,Manchester City,Defenseur,6750,75,3
+Germany,Antonio Rüdiger,Real Madrid,Defenseur,6300,70,3
+Saudi Arabia,Ali Al-Bulayhi,Al Hilal,Defenseur,6300,70,3
+Colombia,Davinson Sánchez,Tottenham,Defenseur,5850,65,3
+Ghana,Jonathan Mensah,Columbus Crew,Defenseur,5850,65,3
+Panama,Eric Davis,Dunajská Streda,Defenseur,5850,65,3
+Korea Republic,Kwon Kyung-won,Gamba Osaka,Defenseur,5400,60,3
+Tunisia,Yassine Meriah,Espérance de Tunis,Defenseur,5400,60,3
+Panama,Michael Murillo,Portland Timbers,Defenseur,5400,60,3
+Portugal,Rúben Dias,Manchester City,Defenseur,4950,55,3
+Paraguay,Fabián Balbuena,Corinthians,Defenseur,4950,55,3
+Qatar,Bassam Al-Rawi,Al Duhail,Defenseur,4950,55,3
+IR Iran,Milad Mohammadi,Persepolis,Defenseur,4950,55,3
+New Zealand,Winston Reid,Auckland FC,Defenseur,4950,55,3
+Netherlands,Matthijs de Ligt,Manchester United,Defenseur,4500,50,3
+Argentina,Nicolás Tagliafico,Lyon,Defenseur,4500,50,3
+Switzerland,Silvan Widmer,Mainz 05,Defenseur,4500,50,3
+Scotland,Grant Hanley,Norwich,Defenseur,4500,50,3
+Netherlands,Nathan Aké,Manchester City,Defenseur,4050,45,3
+Uzbekistan,Rustamjon Ashurmatov,Al Ain,Defenseur,4050,45,3
+Croatia,Joško Gvardiol,Manchester City,Defenseur,3600,40,3
+France,Jules Koundé,Barcelona,Defenseur,3600,40,3
+Spain,Nacho Fernández,Al-Qadsiah,Defenseur,3600,40,3
+Belgium,Timothy Castagne,Fulham,Defenseur,3600,40,3
+Ecuador,Robert Arboleda,São Paulo,Defenseur,3600,40,3
+IR Iran,Shoja Khalilzadeh,Tractor,Defenseur,3600,40,3
+Algeria,Djamel Benlamri,ES Tunis,Defenseur,3600,40,3
+USA,Walker Zimmerman,Nashville SC,Defenseur,3420,38,3
+USA,Miles Robinson,FC Cincinnati,Defenseur,3330,37,3
+Argentina,Nahuel Molina,Atletico Madrid,Defenseur,3150,35,3
+USA,Sergiño Dest,PSV Eindhoven,Defenseur,3150,35,3
+Ecuador,Félix Torres,Internacional,Defenseur,3150,35,3
+South Africa,Aubrey Modiba,Mamelodi Sundowns,Defenseur,2700,30,3
+England,Trent Alexander-Arnold,Real Madrid,Defenseur,2700,30,3
+Brazil,Éder Militão,Real Madrid,Defenseur,2700,30,3
+Australia,Harry Souttar,Sheffield United,Defenseur,2250,25,3
+Japan,Shogo Taniguchi,Kawasaki Frontale,Defenseur,2250,25,3
+Senegal,Pape Abou Cissé,Olympiacos,Defenseur,2250,25,3
+South Africa,Grant Kekana,Mamelodi Sundowns,Defenseur,1350,15,3
+Netherlands,Jeremie Frimpong,Bayer Leverkusen,Defenseur,1080,12,3
+Spain,Álex Grimaldo,Bayer Leverkusen,Defenseur,900,10,3
+Panama,Harold Cummings,Universitario,Defenseur,6300,70,2
+Qatar,Tarek Salman,Al Sadd,Defenseur,5850,65,2
+Switzerland,Manuel Akanji,Manchester City,Defenseur,5400,60,2
+Jordan,Yazan Arab,Al-Faisaly,Defenseur,5400,60,2
+Panama,Fidel Escobar,New York Red Bulls,Defenseur,5400,60,2
+Korea Republic,Kim Min-jae,Bayern Munich,Defenseur,4950,55,2
+Scotland,Kieran Tierney,Arsenal,Defenseur,4950,55,2
+Switzerland,Nico Elvedi,Borussia Mönchengladbach,Defenseur,4950,55,2
+Australia,Aziz Behich,Dundee United,Defenseur,4950,55,2
+Saudi Arabia,Sultan Al-Ghannam,Al Nassr,Defenseur,4950,55,2
+Panama,Andrés Andrade,Atlético Nacional,Defenseur,4950,55,2
+New Zealand,Michael Boxall,Minnesota United,Defenseur,4500,50,2
+England,Kieran Trippier,Newcastle,Defenseur,4500,50,2
+Tunisia,Dylan Bronn,Servette,Defenseur,4500,50,2
+Saudi Arabia,Mohammed Al-Burayk,Al Hilal,Defenseur,4500,50,2
+Norway,Stefan Strandberg,Valladolid,Defenseur,4050,45,2
+Egypt,Omar Gaber,Pyramids FC,Defenseur,4050,45,2
+New Zealand,Tim Payne,Wellington Phoenix,Defenseur,3780,42,2
+Norway,Kristoffer Ajer,Brentford,Defenseur,3600,40,2
+Mexico,César Montes,Almería,Defenseur,3600,40,2
+Haiti,Ricardo Adé,Racing Club Haïtien,Defenseur,3600,40,2
+IR Iran,Sadegh Moharrami,Dinamo Zagreb,Defenseur,3600,40,2
+Uruguay,Ronald Araújo,Barcelona,Defenseur,3600,40,2
+Uzbekistan,Umar Ashurmatov,Shabab Al Ahli,Defenseur,3600,40,2
+Colombia,Johan Mojica,Villarreal,Defenseur,3600,40,2
+Korea Republic,Hong Chul,Daejeon Citizen,Defenseur,3600,40,2
+Canada,Doneil Henry,Toronto FC,Defenseur,3600,40,2
+USA,Antonee Robinson,Fulham,Defenseur,3600,40,2
+Cabo Verde,Edilson Borges,Al Bataeh,Defenseur,3600,40,2
+Algeria,Farouk Ghoulam,Angers,Defenseur,3600,40,2
+Jordan,Salem Al-Dmeiri,Al-Faisaly,Defenseur,3600,40,2
+Tunisia,Montassar Talbi,Lorient,Defenseur,3150,35,2
+England,Luke Shaw,Manchester United,Defenseur,3150,35,2
+Croatia,Josip Juranović,Union Berlin,Defenseur,3150,35,2
+Morocco,Nayef Aguerd,Real Sociedad,Defenseur,3150,35,2
+Scotland,Scott McKenna,Las Palmas,Defenseur,3150,35,2
+Paraguay,Omar Alderete,Sunderland,Defenseur,3150,35,2
+Ecuador,Pervis Estupiñán,AC Milan,Defenseur,3150,35,2
+Côte d'Ivoire,Willy Boly,Nottingham Forest,Defenseur,3150,35,2
+IR Iran,Rouzbeh Cheshmi,Esteghlal,Defenseur,3150,35,2
+Uzbekistan,Islom Tukhtakhodjaev,Pakhtakor,Defenseur,3150,35,2
+Argentina,Cristian Romero,Tottenham,Defenseur,2700,30,2
+Morocco,Noussair Mazraoui,Manchester United,Defenseur,2700,30,2
+Côte d'Ivoire,Wilfried Singo,Monaco,Defenseur,2700,30,2
+Spain,Aymeric Laporte,Al-Nassr,Defenseur,2700,30,2
+Germany,Jonathan Tah,Bayer Leverkusen,Defenseur,2700,30,2
+Portugal,Diogo Dalot,Manchester United,Defenseur,2700,30,2
+Croatia,Duje Ćaleta-Car,Lyon,Defenseur,2700,30,2
+Japan,Ko Itakura,Borussia Mönchengladbach,Defenseur,2700,30,2
+Senegal,Krépin Diatta,Monaco,Defenseur,2700,30,2
+Mexico,Johan Vásquez,Genoa,Defenseur,2700,30,2
+South Africa,Siyanda Xulu,Sekhukhune United,Defenseur,2700,30,2
+Canada,Kamal Miller,Portland Timbers,Defenseur,2700,30,2
+Scotland,Jack Hendry,Al Ettifaq,Defenseur,2700,30,2
+Haiti,Andrew Jean-Baptiste,Sacramento Republic,Defenseur,2700,30,2
+Algeria,Mehdi Tahrat,USM Alger,Defenseur,2700,30,2
+South Africa,Mothobi Mvala,Mamelodi Sundowns,Defenseur,2250,25,2
+Germany,David Raum,RB Leipzig,Defenseur,2250,25,2
+Morocco,Badr Benoun,Qatar SC,Defenseur,2250,25,2
+IR Iran,Omid Noorafkan,Sepahan,Defenseur,2250,25,2
+France,Ibrahima Konaté,Liverpool,Defenseur,1800,20,2
+Germany,Nico Schlotterbeck,Borussia Dortmund,Defenseur,1800,20,2
+Norway,Leo Østigård,Rennes,Defenseur,1800,20,2
+Scotland,John Souttar,Rangers,Defenseur,1800,20,2
+Portugal,Gonçalo Inácio,Sporting CP,Defenseur,1620,18,2
+France,Jonathan Clauss,OGC Nice,Defenseur,1350,15,2
+Argentina,Lucas Martínez Quarta,Fiorentina,Defenseur,1350,15,2
+Spain,Pedro Porro,Tottenham,Defenseur,1350,15,2
+Japan,Koki Machida,Union Berlin,Defenseur,1350,15,2
+Egypt,Mahmoud Abdelmonem,Al Ahly,Defenseur,1350,15,2
+Mexico,Jesús Angulo,Tigres UANL,Defenseur,1350,15,2
+South Africa,Terrence Mashego,Cape Town City,Defenseur,1350,15,2
+Scotland,Ryan Porteous,Watford,Defenseur,1350,15,2
+Brazil,Guilherme Arana,Atletico Mineiro,Defenseur,1080,12,2
+Croatia,Martin Erlić,Sassuolo,Defenseur,1080,12,2
+Brazil,Gabriel Magalhães,Arsenal,Defenseur,900,10,2
+England,Kyle Walker,AC Milan,Defenseur,7650,85,1
+USA,Tim Ream,Charlotte FC,Defenseur,7020,78,1
+Ghana,Daniel Amartey,Besiktas,Defenseur,4950,55,1
+Australia,Miloš Degenek,Columbus Crew,Defenseur,4050,45,1
+Saudi Arabia,Abdulelah Al-Malki,Al Hilal,Defenseur,4050,45,1
+Jordan,Musa Al-Naimat,Al-Ahli Amman,Defenseur,4050,45,1
+Japan,Takehiro Tomiyasu,Arsenal,Defenseur,3600,40,1
+Senegal,Youssouf Sabaly,Real Betis,Defenseur,3600,40,1
+Tunisia,Ali Abdi,Caen,Defenseur,3600,40,1
+Saudi Arabia,Abdulellah Al-Amri,Al Nassr,Defenseur,3600,40,1
+Austria,Stefan Posch,Bologna,Defenseur,3600,40,1
+Ghana,Abdul-Rahman Baba,Stade Rennais,Defenseur,3600,40,1
+Ecuador,Piero Hincapié,Bayer Leverkusen,Defenseur,3150,35,1
+Curaçao,Cuco Martina,FC Dordrecht,Defenseur,3150,35,1
+Senegal,Abdou Diallo,Lyon,Defenseur,3150,35,1
+Colombia,William Tesillo,León,Defenseur,3150,35,1
+South Africa,Ramahlwe Mphahlele,Kaizer Chiefs,Defenseur,3150,35,1
+Canada,Alistair Johnston,Celtic,Defenseur,3150,35,1
+Canada,Richie Laryea,Toronto FC,Defenseur,3150,35,1
+Cabo Verde,Steven Moreira,Columbus Crew,Defenseur,3150,35,1
+Austria,Kevin Danso,Lens,Defenseur,3150,35,1
+Jordan,Anas Haddad,Al-Faisaly,Defenseur,3150,35,1
+France,Dayot Upamecano,Bayern Munich,Defenseur,2700,30,1
+Argentina,Gonzalo Montiel,Nottingham Forest,Defenseur,2700,30,1
+Portugal,Nuno Mendes,Paris Saint-Germain,Defenseur,2700,30,1
+Norway,Birger Meling,Rennes,Defenseur,2700,30,1
+Egypt,Ahmed Fatouh,Zamalek,Defenseur,2700,30,1
+Egypt,Ayman Ashraf,Al Ahly,Defenseur,2700,30,1
+Mexico,Jorge Sánchez,Cruz Azul,Defenseur,2700,30,1
+Canada,Sam Adekugbe,Hatayspor,Defenseur,2700,30,1
+Qatar,Homam Ahmed,Al Gharafa,Defenseur,2700,30,1
+Australia,Bailey Wright,Sunderland,Defenseur,2700,30,1
+Ecuador,Angelo Preciado,Atlético Mineiro,Defenseur,2700,30,1
+Côte d'Ivoire,Odilon Kossounou,Atalanta,Defenseur,2700,30,1
+Tunisia,Nader Ghandri,Club Africain,Defenseur,2700,30,1
+IR Iran,Majid Hosseini,Kayserispor,Defenseur,2700,30,1
+New Zealand,Liberato Cacace,Empoli,Defenseur,2700,30,1
+Uruguay,Mathías Olivera,Naples,Defenseur,2700,30,1
+Austria,Maximilian Wöber,Leeds United,Defenseur,2700,30,1
+Jordan,Abdallah Nasib,Al-Salt,Defenseur,2700,30,1
+Uzbekistan,Husniddin Gafurov,AGMK,Defenseur,2700,30,1
+Ghana,Alexander Djiku,Fenerbahçe,Defenseur,2700,30,1
+Ghana,Joseph Aidoo,Celta Vigo,Defenseur,2700,30,1
+Panama,Iván Anderson,Royal Antwerp,Defenseur,2700,30,1
+France,William Saliba,Arsenal,Defenseur,2250,25,1
+USA,Chris Richards,Crystal Palace,Defenseur,2250,25,1
+Ghana,Mohammed Salisu,Monaco,Defenseur,2250,25,1
+Argentina,Lisandro Martínez,Manchester United,Defenseur,2250,25,1
+England,Marc Guéhi,Crystal Palace,Defenseur,2250,25,1
+Netherlands,Jurriën Timber,Arsenal,Defenseur,2250,25,1
+Belgium,Wout Faes,Leicester City,Defenseur,2250,25,1
+Morocco,Jawad El Yamiq,Real Valladolid,Defenseur,2250,25,1
+Norway,Julian Ryerson,Borussia Dortmund,Defenseur,2250,25,1
+Colombia,Jhon Lucumí,Bologna,Defenseur,2250,25,1
+Canada,Derek Cornelius,Malmö FF,Defenseur,2250,25,1
+Haiti,Carlens Arcus,Châteauroux,Defenseur,2250,25,1
+Ecuador,Willian Pacho,Paris Saint-Germain,Defenseur,2250,25,1
+Côte d'Ivoire,Ghislain Konan,Gil Vicente,Defenseur,2250,25,1
+Curaçao,Juriën Gaari,Almere City,Defenseur,2250,25,1
+Uruguay,Guillermo Varela,Flamengo,Defenseur,2250,25,1
+Cabo Verde,Logan Costa,Villarreal,Defenseur,2250,25,1
+Austria,Philipp Lienhart,Fribourg,Defenseur,2250,25,1
+Algeria,Abdelkader Bedrane,ES Sétif,Defenseur,2250,25,1
+Uzbekistan,Odiljon Hamrobekov,AGMK,Defenseur,2250,25,1
+Belgium,Arthur Theate,Rennes,Defenseur,1800,20,1
+Germany,Benjamin Henrichs,RB Leipzig,Defenseur,1800,20,1
+Portugal,António Silva,Benfica,Defenseur,1800,20,1
+Croatia,Borna Sosa,Torino,Defenseur,1800,20,1
+Japan,Miki Yamane,Celtic,Defenseur,1800,20,1
+Colombia,Carlos Cuesta,Genk,Defenseur,1800,20,1
+Egypt,Ahmed Ramadan Beckham,Al Ahly,Defenseur,1800,20,1
+Mexico,Kevin Álvarez,Pachuca,Defenseur,1800,20,1
+South Africa,Rushine De Reuck,Mamelodi Sundowns,Defenseur,1800,20,1
+South Africa,Khuliso Mudau,Mamelodi Sundowns,Defenseur,1800,20,1
+Korea Republic,Cho Yu-min,Daejeon Citizen,Defenseur,1800,20,1
+Switzerland,Eray Cömert,Valence,Defenseur,1800,20,1
+Scotland,Anthony Ralston,Celtic,Defenseur,1800,20,1
+Haiti,Alex Christian,Charleston Battery,Defenseur,1800,20,1
+Paraguay,Juan Cáceres,América de Cali,Defenseur,1800,20,1
+Australia,Kye Rowles,Hearts,Defenseur,1800,20,1
+Côte d'Ivoire,Evan Ndicka,AS Roma,Defenseur,1800,20,1
+Curaçao,Joshua Brenet,Twente,Defenseur,1800,20,1
+Curaçao,Sherel Floranus,Heerenveen,Defenseur,1800,20,1
+New Zealand,Nando Pijnaker,Portland Timbers,Defenseur,1800,20,1
+Cabo Verde,Jorge Xavier,CD Tondela,Defenseur,1800,20,1
+France,Ferland Mendy,Real Madrid,Defenseur,1620,18,1
+Belgium,Zeno Debast,Sporting CP,Defenseur,1620,18,1
+Croatia,Josip Stanišić,Bayer Leverkusen,Defenseur,1620,18,1
+Morocco,Yahya Attiat-Allah,Wydad Casablanca,Defenseur,1620,18,1
+Japan,Hiroki Ito,Bayern Munich,Defenseur,1620,18,1
+Haiti,Lucas Music,Violette AC,Defenseur,1620,18,1
+Paraguay,Robert Rojas,River Plate,Defenseur,1620,18,1
+Spain,Robin Le Normand,Atletico Madrid,Defenseur,1350,15,1
+Brazil,Wendell,Porto,Defenseur,1350,15,1
+Croatia,Josip Šutalo,Ajax,Defenseur,1350,15,1
+Croatia,Marin Pongračić,Fiorentina,Defenseur,1350,15,1
+Senegal,Moussa Niakhaté,Nottingham Forest,Defenseur,1350,15,1
+Egypt,Mohamed El Wensh,Zamalek,Defenseur,1350,15,1
+Switzerland,Ulisses Garcia,Marseille,Defenseur,1350,15,1
+Côte d'Ivoire,Ousmane Diomandé,Sporting CP,Defenseur,1350,15,1
+Côte d'Ivoire,Emmanuel Agbadou,Wolverhampton,Defenseur,1350,15,1
+Curaçao,Armando Obispo,PSV Eindhoven,Defenseur,1350,15,1
+IR Iran,Abolfazl Jalali,Esteghlal,Defenseur,1350,15,1
+Austria,Marco Friedl,Werder Brême,Defenseur,1350,15,1
+Algeria,Hocine Benayada,Espérance de Tunis,Defenseur,1350,15,1
+Spain,Dani Vivian,Athletic Bilbao,Defenseur,1080,12,1
+Netherlands,Micky van de Ven,Tottenham,Defenseur,1080,12,1
+Norway,Andreas Hanche-Olsen,Montpellier,Defenseur,1080,12,1
+Korea Republic,Seol Young-woo,Ulsan Hyundai,Defenseur,1080,12,1
+England,Ezri Konsa,Aston Villa,Defenseur,900,10,1
+Germany,Waldemar Anton,Borussia Dortmund,Defenseur,900,10,1
+Germany,Maximilian Mittelstädt,Stuttgart,Defenseur,900,10,1
+Belgium,Maxim De Cuyper,Club Bruges,Defenseur,900,10,1
+Mexico,Jesús Orozco Chiquete,Chivas Guadalajara,Defenseur,900,10,1
+Uruguay,José Luis Rodríguez,Nacional,Defenseur,900,10,1
+Brazil,Yan Couto,Borussia Dortmund,Defenseur,720,8,1
+Spain,Marc Cucurella,Chelsea,Defenseur,1800,20,0
+Senegal,Ismail Jakobs,Monaco,Defenseur,1800,20,0
+Mexico,Gerardo Arteaga,Genk,Defenseur,1800,20,0
+Haiti,Bryan Alceus,Indy Eleven,Defenseur,1800,20,0
+Austria,Philipp Mwene,Mayence,Defenseur,1800,20,0
+Jordan,Ehsan Al-Rawabdeh,Al-Wehdat,Defenseur,1800,20,0
+Ghana,Alidu Seidu,Stade Rennais,Defenseur,1800,20,0
+USA,Joe Scally,Borussia Mönchengladbach,Defenseur,1620,18,0
+Australia,Fran Karačić,Lokomotiva Zagreb,Defenseur,1620,18,0
+Côte d'Ivoire,Guela Doué,Strasbourg,Defenseur,1620,18,0
+Curaçao,Shurandy Sambo,Heracles Almelo,Defenseur,1620,18,0
+Jordan,Anas Khattab,Damac FC,Defenseur,1620,18,0
+Senegal,Fodé Ballo-Touré,Fulham,Defenseur,1350,15,0
+Norway,Marcus Holmgren Pedersen,Feyenoord,Defenseur,1350,15,0
+Colombia,Deiver Machado,RC Lens,Defenseur,1350,15,0
+Korea Republic,Yoon Jong-gyu,FC Seoul,Defenseur,1350,15,0
+Canada,Moise Bombito,Nice,Defenseur,1350,15,0
+Qatar,Mohammed Al-Hajri,Al Rayyan,Defenseur,1350,15,0
+Paraguay,Santiago Arzamendia,Cerro Porteño,Defenseur,1350,15,0
+Tunisia,Yan Valery,Sheffield Wednesday,Defenseur,1350,15,0
+Uruguay,Marcelo Saracchi,Boca Juniors,Defenseur,1350,15,0
+Cabo Verde,Wagner Pina,Gil Vicente,Defenseur,1350,15,0
+Uzbekistan,Abdukodir Khusanov,Manchester City,Defenseur,1350,15,0
+Ghana,Tariq Lamptey,Brighton,Defenseur,1350,15,0
+Mexico,Israel Reyes,Club América,Defenseur,1080,12,0
+Haiti,Alex Junior Juste,Aigle Noir,Defenseur,1080,12,0
+USA,Mark McKenzie,Toulouse,Defenseur,1080,12,0
+Curaçao,Roshon van Eijma,Cambuur,Defenseur,1080,12,0
+Tunisia,Mortadha Ben Ouanès,Espérance de Tunis,Defenseur,1080,12,0
+Uruguay,Santiago Bueno,Wolverhampton,Defenseur,1080,12,0
+Saudi Arabia,Hassan Al-Khaibari,Al Ahli,Defenseur,1080,12,0
+Cabo Verde,João Paulo Fernandes,Moreirense,Defenseur,1080,12,0
+Jordan,Feras Al-Ghanam,Al-Wehdat,Defenseur,1080,12,0
+Uzbekistan,Davron Yuldoshev,Pakhtakor,Defenseur,1080,12,0
+Panama,Kevin Galván,CAI La Chorrera,Defenseur,1080,12,0
+England,Levi Colwill,Chelsea,Defenseur,900,10,0
+Norway,Fredrik Bjørkan,Hertha Berlin,Defenseur,900,10,0
+Egypt,Karim Fouad,Al Ahly,Defenseur,900,10,0
+Switzerland,Leonidas Stergiou,Stuttgart,Defenseur,900,10,0
+Qatar,Jassem Al-Ahrak,Al Duhail,Defenseur,900,10,0
+Ecuador,Joel Ordóñez,Club Bruges,Defenseur,900,10,0
+Curaçao,Ar'jany Martha,NAC Breda,Defenseur,900,10,0
+New Zealand,Finn Surman,Portland Timbers,Defenseur,900,10,0
+Uruguay,Nicolás Marichal,Dinamo Moscou,Defenseur,900,10,0
+Austria,Flavius Daniliuc,Red Bull Salzbourg,Defenseur,900,10,0
+Uzbekistan,Davron Iskandarov,Bunyodkor,Defenseur,900,10,0
+Brazil,Lucas Beraldo,Paris Saint-Germain,Defenseur,720,8,0
+Paraguay,Iván Velázquez,Libertad,Defenseur,720,8,0
+Australia,Jack Iredale,Ipswich Town,Defenseur,720,8,0
+New Zealand,Tyler Bindon,Dundee United,Defenseur,720,8,0
+Saudi Arabia,Ahmed Lajami,Al Shabab,Defenseur,720,8,0
+Australia,Cameron Burgess,Ipswich Town,Defenseur,540,6,0
+Morocco,Adam Aznou,Bayern Munich,Defenseur,450,5,0
+Ecuador,Yaimar Medina,Genk,Defenseur,450,5,0
+Cabo Verde,Yuran Fernandes,SC Braga B,Defenseur,450,5,0
+Mexico,Guillermo Ochoa,Salernitana,Gardien,13050,145,0
+Colombia,David Ospina,Atletico Nacional,Gardien,11250,125,0
+Germany,Manuel Neuer,Bayern Munich,Gardien,10800,120,0
+Portugal,Rui Patrício,Roma,Gardien,9720,108,0
+Switzerland,Yann Sommer,Inter Milan,Gardien,8550,95,0
+Algeria,Raïs M'Bolhi,ES Sétif,Gardien,8550,95,0
+Qatar,Saad Al Sheeb,Al Sadd,Gardien,8100,90,0
+South Africa,Itumeleng Khune,Kaizer Chiefs,Gardien,8100,90,0
+Australia,Mat Ryan,AZ Alkmaar,Gardien,7650,85,0
+Scotland,Craig Gordon,Hearts,Gardien,6750,75,0
+Brazil,Alisson,Liverpool,Gardien,6300,70,0
+Paraguay,Antony Silva,Libertad,Gardien,6300,70,0
+Ecuador,Alexander Domínguez,LDU Quito,Gardien,6300,70,0
+Jordan,Yazeed Abu Laila,Al-Wehdat,Gardien,6300,70,0
+England,Jordan Pickford,Everton,Gardien,5850,65,0
+Haiti,Johny Placide,Dunkerque,Gardien,5850,65,0
+IR Iran,Alireza Beiranvand,Persepolis,Gardien,5850,65,0
+Korea Republic,Kim Seung-gyu,Al Shabab,Gardien,5850,65,0
+Canada,Milan Borjan,Étoile Rouge de Belgrade,Gardien,5850,65,0
+Cabo Verde,Vozinha,Al-Ittihad Kalba,Gardien,5400,60,0
+Croatia,Dominik Livaković,Fenerbahce,Gardien,4950,55,0
+Saudi Arabia,Mohammed Al-Owais,Al Hilal,Gardien,4950,55,0
+Argentina,Emiliano Martínez,Aston Villa,Gardien,4680,52,0
+Curaçao,Eloy Room,Columbus Crew,Gardien,4500,50,0
+Morocco,Yassine Bounou,Al Hilal,Gardien,4050,45,0
+Panama,Luis Mejía,FC Cartagena,Gardien,4050,45,0
+South Africa,Ronwen Williams,Mamelodi Sundowns,Gardien,3600,40,0
+New Zealand,Stefan Marinovic,Kilmarnock,Gardien,3600,40,0
+Germany,Marc-André ter Stegen,Barcelona,Gardien,3600,40,0
+Spain,Unai Simón,Athletic Bilbao,Gardien,3150,35,0
+USA,Matt Turner,Nottingham Forest,Gardien,3150,35,0
+Uzbekistan,Utkir Yusupov,Pakhtakor,Gardien,3150,35,0
+Norway,Ørjan Nyland,Sevilla,Gardien,2700,30,0
+Korea Republic,Jo Hyeon-woo,Ulsan Hyundai,Gardien,2700,30,0
+Canada,Maxime Crépeau,Portland Timbers,Gardien,2700,30,0
+Uruguay,Sergio Rochet,Internacional,Gardien,2700,30,0
+Brazil,Ederson,Manchester City,Gardien,2700,30,0
+Morocco,Munir Mohamedi,Al Wehda,Gardien,2700,30,0
+Senegal,Édouard Mendy,Chelsea,Gardien,2250,25,0
+Egypt,Mohamed El Shenawy,Al Ahly,Gardien,2250,25,0
+Scotland,Angus Gunn,Norwich,Gardien,2250,25,0
+Tunisia,Aymen Dahmen,Al Okhdood,Gardien,2250,25,0
+Qatar,Meshaal Barsham,Al Sadd,Gardien,2250,25,0
+Ecuador,Hernán Galíndez,Huracán,Gardien,2250,25,0
+Ghana,Richard Ofori,Orlando Pirates,Gardien,2250,25,0
+France,Mike Maignan,AC Milan,Gardien,1800,20,0
+Belgium,Koen Casteels,Wolfsburg,Gardien,1800,20,0
+Colombia,Camilo Vargas,Atletico Nacional,Gardien,1800,20,0
+Austria,Patrick Pentz,Brøndby,Gardien,1800,20,0
+New Zealand,Max Crocombe,Oxford United,Gardien,1800,20,0
+Austria,Heinz Lindner,Union Saint-Gilloise,Gardien,1800,20,0
+Japan,Daniel Schmidt,Sint-Truiden,Gardien,1620,18,0
+Netherlands,Bart Verbruggen,Brighton,Gardien,1350,15,0
+Japan,Zion Suzuki,Gamba Osaka,Gardien,1350,15,0
+Algeria,Alexandre Oukidja,Metz,Gardien,1350,15,0
+Ghana,Lawrence Ati-Zigi,St. Gallen,Gardien,1350,15,0
+Morocco,Anas Zniti,RS Berkane,Gardien,1350,15,0
+Senegal,Alfred Gomis,Rennes,Gardien,1350,15,0
+Egypt,Mohamed Abou Gabal,Zamalek,Gardien,1350,15,0
+Mexico,Luis Malagón,Club América,Gardien,1350,15,0
+Canada,Dayne St. Clair,Minnesota United,Gardien,1350,15,0
+IR Iran,Hossein Hosseini,Sepahan,Gardien,1350,15,0
+Jordan,Ahmad Al-Shafi,Al-Faisaly,Gardien,1350,15,0
+USA,Sean Johnson,Toronto FC,Gardien,1260,14,0
+Argentina,Gerónimo Rulli,Olympique de Marseille,Gardien,1080,12,0
+USA,Ethan Horvath,Cardiff City,Gardien,1080,12,0
+Portugal,Diogo Costa,Porto,Gardien,900,10,0
+Côte d'Ivoire,Yahia Fofana,Angers,Gardien,900,10,0
+France,Brice Samba,RC Lens,Gardien,900,10,0
+Croatia,Ivica Ivušić,Pafos FC,Gardien,900,10,0
+Senegal,Seny Dieng,Middlesbrough,Gardien,900,10,0
+Mexico,Carlos Acevedo,Santos Laguna,Gardien,900,10,0
+South Africa,Bruce Bvuma,Kaizer Chiefs,Gardien,900,10,0
+Korea Republic,Song Bum-keun,Jeonbuk Hyundai,Gardien,900,10,0
+Switzerland,Gregor Kobel,Borussia Dortmund,Gardien,900,10,0
+Haiti,Josué Duverger,Don Bosco FC,Gardien,900,10,0
+Tunisia,Béchir Ben Saïd,US Monastir,Gardien,900,10,0
+Saudi Arabia,Mohammed Al-Yami,Al Ahli,Gardien,900,10,0
+Algeria,Moustapha Zeghba,CR Belouizdad,Gardien,900,10,0
+Uzbekistan,Botirali Ergashev,Nasaf Qarshi,Gardien,900,10,0
+Panama,Orlando Mosquera,Wolfsburg,Gardien,900,10,0
+France,Alphonse Areola,West Ham,Gardien,720,8,0
+Argentina,Juan Musso,Atalanta,Gardien,720,8,0
+Brazil,Bento,Al Nassr,Gardien,720,8,0
+Portugal,José Sá,Wolverhampton,Gardien,720,8,0
+Netherlands,Mark Flekken,Brentford,Gardien,720,8,0
+Belgium,Matz Sels,Nottingham Forest,Gardien,720,8,0
+Colombia,Álvaro Montero,Millonarios,Gardien,720,8,0
+Switzerland,Yvon Mvogo,Lorient,Gardien,720,8,0
+Haiti,Alexandre Paulius,Violette AC,Gardien,720,8,0
+Paraguay,Rodrigo Fernández,Cerro Porteño,Gardien,720,8,0
+Australia,Paul Izzo,Randers,Gardien,720,8,0
+Ecuador,Moisés Ramírez,Independiente del Valle,Gardien,720,8,0
+Côte d'Ivoire,Alban Lafont,Panathinaïkos,Gardien,720,8,0
+Uruguay,Santiago Mele,Olympiakos,Gardien,720,8,0
+Uzbekistan,Abduvohid Nematov,Bunyodkor,Gardien,720,8,0
+Ghana,Abdul Manaf Nurudeen,KAS Eupen,Gardien,720,8,0
+Croatia,Nediljko Labrović,Dinamo Zagreb,Gardien,540,6,0
+England,Aaron Ramsdale,Southampton,Gardien,450,5,0
+Spain,David Raya,Arsenal,Gardien,450,5,0
+Spain,Álex Remiro,Real Sociedad,Gardien,450,5,0
+Germany,Oliver Baumann,Hoffenheim,Gardien,450,5,0
+Netherlands,Justin Bijlow,Feyenoord,Gardien,450,5,0
+Belgium,Thomas Kaminski,Luton Town,Gardien,450,5,0
+Japan,Kōki Tani,Gamba Osaka,Gardien,450,5,0
+Norway,Per Kristian Bråtveit,Groningen,Gardien,450,5,0
+Egypt,Ahmed El-Shennawy,Pyramids FC,Gardien,450,5,0
+Qatar,Yousof Hassan,Al Gharafa,Gardien,450,5,0
+Scotland,Zander Clark,Hearts,Gardien,450,5,0
+Paraguay,Carlos Coronel,Red Bull Salzburg,Gardien,450,5,0
+Australia,Tom Glover,Middlesbrough,Gardien,450,5,0
+Côte d'Ivoire,Mohamed Koné,Charleroi,Gardien,450,5,0
+Curaçao,Tyrick Bodak,Jong Holland,Gardien,450,5,0
+Tunisia,Sabri Ben Hassen,Espérance de Tunis,Gardien,450,5,0
+IR Iran,Amir Niazmand,Persepolis,Gardien,450,5,0
+New Zealand,Alex Paulsen,Auckland FC,Gardien,450,5,0
+Saudi Arabia,Nawaf Al-Aqidi,Al Nassr,Gardien,450,5,0
+Cabo Verde,Henrique Tavares,Boavista,Gardien,450,5,0
+Austria,Niklas Hedl,Rapid Vienne,Gardien,450,5,0
+Jordan,Mohammad Al-Nawateer,Al-Ahli Amman,Gardien,450,5,0
+Panama,César Samudio,Independiente La Chorrera,Gardien,450,5,0
+England,Dean Henderson,Crystal Palace,Gardien,270,3,0
+Norway,Mathias Dyngeland,Brann,Gardien,270,3,0
+Curaçao,Trevor Doornbusch,Roda JC,Gardien,270,3,0
+Uruguay,Franco Israel,Sporting CP,Gardien,270,3,0
+Cabo Verde,Dylan Silva,CS Marítimo,Gardien,270,3,0

@@ -1,0 +1,25 @@
+[project]
+name = "mlfoot"
+version = "0.1.0"
+description = "Analyse de données et statistiques Ligue 1"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "soccerdata",      # Récupération des données FBref
+    "pandas",          # Manipulation des DataFrames
+    "ipykernel",        # Support pour les Notebooks (VS Code/Jupyter)
+    "numpy",           # Calcul numerique
+    "scikit-learn",    # Modelisation
+    "xgboost",         # Champion model
+    "lightgbm",        # Challenger model
+    "statsmodels",     # Poisson regression
+    "shap",            # Interpretabilite
+    "matplotlib",      # Graphiques de base
+    "seaborn",         # Visualisation de données élégante
+    "plotly",          # Visualisation interactive
+    "joblib",          # Sauvegarde des modeles
+    "requests",        # HTTP client
+    "beautifulsoup4",  # HTML parsing
+    "selenium",        # Nécessaire pour le scraping FBref si besoin
+    "webdriver-manager" # Gère les drivers de navigateur automatiquement
+]
